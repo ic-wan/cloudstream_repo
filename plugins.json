@@ -291,46 +291,6 @@
         "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/IndoTV.cs3",
         "name": "IndoTV"
     },
-    {
-        "iconUrl": "https://homecookingrocks.com/wp-content/uploads/2024/10/cropped-indomax21-favicon-color-1.png",
-        "fileHash": "sha256-c6bf0c183001b1a3835aa86a9b9594509986956146ed4124f8ad8f34667c5802",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
-        "fileSize": 26044,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Miku"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 3,
-        "internalName": "IndoMax21Provider",
-        "description": "IndoMax21 \u2014 Streaming Anime, Donghua, Hentai, Porn, Movie and TV Series",
-        "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/IndoMax21Provider.cs3",
-        "name": "IndoMax21Provider"
-    },
-    {
-        "iconUrl": "https://missav.ws/missav/logo-square.png",
-        "fileHash": "sha256-7dde0e83ba6032138bd533c41c8074bf52c9ac7e83ab065c7d15be630490d5cb",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
-        "fileSize": 22573,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Miku"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 2,
-        "internalName": "JavHeyProvider",
-        "description": "JavHey \u2014 Streaming Porn and JAV",
-        "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/JavHeyProvider.cs3",
-        "name": "JavHeyProvider"
-    },
   {
     "iconUrl": "https://movie21.indomax21.org/wp-content/uploads/2024/10/cropped-indomax21-favicon-color-1.png",
     "apiVersion": 1,
